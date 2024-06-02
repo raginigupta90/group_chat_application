@@ -1,6 +1,6 @@
-# Simple Group Chat Application
+# Group Chat Application
 
-This repository contains the code for a simple group chat application, which is similar to the one seen in WhatsApp messenger, but running on a localhost server. Multiple users can join the chat and share their messages. The application uses MySQL to store and retrieve messages.
+This repository contains  a simple group chat application, which is similar to the one seen in WhatsApp messenger, but running on a localhost server. Multiple users can join the chat and share their messages. The application uses MySQL to store and retrieve messages.
 
 ## Prerequisites
 
